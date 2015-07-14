@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">My_Pro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>SuryaNamaskar</item>
+        <item>Ananthasana</item>
+        <item>Ardachakrasana</item>
+        <item>Ardamatseyendrasana</item>
+        <item>Astavakra</item>
+        <item>Baddakonasana</item>
+        <item>Bakasana</item>
+        <item>Balasana</item>
+        <item>Dhanurasana</item>
+        <item>Dimbasana</item>
+        <item>Ekapada vipareeta dhandasana</item>
+        <item>Ekapada kaundinyasana</item>
+        <item>Ekapada shirsana</item>
+        <item>Ganda Berundasana</item>
+        <item>Garudasana</item>
+        <item>Halasana</item>
+        <item>Hanumasana</item>
+        <item>Janushirsana</item>
+        <item>Karnapeedasana</item>
+        <item>Katichakrasana</item>
+        <item>Konasana</item>
+        <item>Kukkutasana</item>
+        <item>Kurmasana</item>
+        <item>Makarasana</item>
+        <item>Makara Adho Mukha Svanasana</item>
+        <item>Marjariasana</item>
+        <item>Matsyasana</item>
+        <item>Mayurasana</item>
+        <item>Natarajasana</item>
+        <item>Naukasana</item>
+        <item>Navasana</item>
+        <item>Omkarasana</item>
+        <item>Padmasana</item>
+        <item>Padmabakasana</item>
+        <item>Padmashirshasana</item>
+        <item>Paschimothanasana</item>
+        <item>Paschim Namaskarasana</item>
+        <item>Pavanamuktasana</item>
+        <item>Poorna Chakrasana</item>
+        <item>Poorna Dhanurasana</item>
+        <item>Poorvottanasana</item>
+        <item>Parsarita Padotanasana</item>
+        <item>Rajakpotasana</item>
+        <item>Salamba Bhujangasana</item>
+        <item>Sarvangasana</item>
+        <item>Sasakasana</item>
+        <item>Savasana</item>
+        <item>Setubandha sarvangasan</item>
+        <item>Shirshasana</item>
+        <item>Suptabadhasana</item>
+        <item>Suptabhekasana</item>
+        <item>Tadasana</item>
+        <item>Tittibhasana</item>
+        <item>Trikonasana</item>
+        <item>Ustrasana</item>
+        <item>Utkatasana</item>
+        <item>Vajrasana</item>
+        <item>Vasisthasana</item>
+        <item>Vimanasana</item>
+        <item>Viparita karanimudrasana</item>
+        <item>Virabhadrasana</item>
+        <item>Vrukshasana</item>
+        <item>Vrustikasana</item>
+        <item>Yogadandasana</item>
+    </string-array>
+    <string-array name="description">
+        <item>(Sun Salutation)</item>
+        <item>(Lord Vishnu Pose)</item>
+        <item>(Standing Backward Bend Pose)</item>
+        <item>(Half Spinal Twist Pose)</item>
+        <item>(Eight angled Pose)</item>
+        <item>(Cobbler Pose)</item>
+        <item>(Crow Pose)</item>
+        <item>(Child Pose)</item>
+        <item>(Bow Pose)</item>
+        <item>(Full Stretch Pose)</item>
+        <item>(One Legged Inverted Staff Pose)</item>
+        <item>(One Legged Arm Balance Pose)</item>
+        <item>(Foot Behind the Head Pose)</item>
+        <item>(Formidable Face Pose)</item>
+        <item>(Eagle Pose)</item>
+        <item>(Plow Pose)</item>
+        <item>(Monkey Pose)</item>
+        <item>(One-Legged Forward Bend)</item>
+        <item>(Ear Pressure Pose)</item>
+        <item>(Standing Spinal Twist)</item>
+        <item>(Standing Sideways Bending One arm)</item>
+        <item>(Cock Pose)</item>
+        <item>(Tortoise Pose)</item>
+        <item>(crocodile Pose)</item>
+        <item>(Dolphin Plank Pose)</item>
+        <item>(Cat Stretch)</item>
+        <item>(Fish Pose)</item>
+        <item>(Peacock Pose)</item>
+        <item>(Lord of the Dance Pose)</item>
+        <item>(Boat Pose)</item>
+        <item>(Full Boat Pose)</item>
+        <item>(Om Pose)</item>
+        <item>(Lotus throne)</item>
+        <item>(Lotus Pose</item>
+        <item>(Lotus Headstand Pose)</item>
+        <item>(Seated Dorsal Stretch)</item>
+        <item>(Reverse Prayer Pose)</item>
+        <item>(Wind-Relieving Pose)</item>
+        <item>(Wheel Pose)</item>
+        <item>(Complete Bow Pose)</item>
+        <item>(Inclined Plane)</item>
+        <item>(Standing Forward Bend with Feet Apart)</item>
+        <item>(King pigeon Pose)</item>
+        <item>(Sphinx Pose)</item>
+        <item>(Shoulderstand Pose)</item>
+        <item>(Rabbit Pose)</item>
+        <item>(Corpse Pose)</item>
+        <item>(supported bridge Pose)</item>
+        <item>(Headstand Pose)</item>
+        <item>(Reclining Bound Angle Pose)</item>
+        <item>(Reclining Frog Pose)</item>
+        <item>(Mountain Pose)</item>
+        <item>(Firefly Pose)</item>
+        <item>(Triangle Pose)</item>
+        <item>(Camel Pose)</item>
+        <item>(Chair Pose)</item>
+        <item>(Thunderbolt Pose)</item>
+        <item>Side Plank Pose</item>
+        <item>(Aircraft Pose)</item>
+        <item>(Half Shoulderstand Pose)</item>
+        <item>(Warrior Pose)</item>
+        <item>(Tree Pose)</item>
+        <item>(Scorpion Pose)</item>
+        <item>(Stick Pose)</item>
+    </string-array>
+    <string name="title_activity_main_activity4">MainActivity4</string>
+
+</resources>
